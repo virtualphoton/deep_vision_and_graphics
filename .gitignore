@@ -32,6 +32,15 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg/
+homework01/notMNIST_small
+*.tar.gz
+*.pth
+*.zip
+homework01/tiny-imagenet-200
+homework02/data
+homework02/cifar_data
+homework03/voc_data
+
 
 # Installer logs
 pip-log.txt
